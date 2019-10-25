@@ -5,7 +5,9 @@ public class Sudent
 {
 
 	private String name;
+	
 	private int id;
+	private String scl;
 	public Sudent() {
 		super();
 	}
